@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player_one_label">Divyanshu : O</string>
+    <string name="player_one">Divyanshu</string>
+    <string name="player_two_label">Jyoti : X</string>
+    <string name="player_two">Jyoti</string>
+</resources>
